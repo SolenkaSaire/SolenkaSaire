@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**SolenkaSaire/SolenkaSaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hola!👋&animation=fadeIn&color=1:58d1b2,100:2755c2)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bienvenid@, mi nombre es Solenka Saire.
+
+Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad del Quindío, Colombia.
+ 
+* Actualmente curso el tercer semestre de mi carrera profesional.
+* Principiante y Aprendiz en Java.
+
+## Habilidades 
+* Conocimientos basicos de Python 
+* Experiencia aprendiendo en Java desde 2020 
+
+
+### 📫 How to reach me: 
+[Correo](http://gmail.com)
+
+### ⚡ Fun fact: currently trying to figure out how to use GitHub
+
