@@ -10,8 +10,8 @@ Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad del Q
 * Principiante y Aprendiz en Java.
 
 ## Habilidades 
-* Conocimientos basicos de Python 
-* Experiencia aprendiendo en Java desde 2020 
+
+* Experiencia aprendiendo Java desde 2020 
 
 
 ### 📫 How to reach me: 
