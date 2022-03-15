@@ -17,5 +17,4 @@ Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad del Q
 #### 📫 How to reach me: 
 [Correo](http://gmail.com)
 
-#### ⚡ Fun fact: currently trying to figure out how to use GitHub
 
