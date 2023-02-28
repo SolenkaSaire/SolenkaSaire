@@ -5,13 +5,11 @@
 ### Bienvenid@, mi nombre es Solenka Saire.
 
 Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad del Quindío, Colombia.
- 
-* Actualmente curso el tercer semestre de mi carrera profesional.
-* Principiante y Aprendiz en Java.
+
 
 ### Habilidades 
 
-* Experiencia aprendiendo Java desde 2020 
+* Java, JS, C#, | Node.js, MySQL, MongoDB 
 
 
 #### 📫 How to reach me: 
