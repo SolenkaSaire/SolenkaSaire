@@ -2,10 +2,10 @@
 
 ### 👨‍💻 &nbsp;About Me:
 
-Welcome to my GitHub profile! I'm a Computer Systems Engineering student from Colombia, specializing in Backend Development and Java programming.
+Welcome to my GitHub profile! I'm a Computer Systems Engineering student from Colombia, specializing in Backend Development, Java, Angular, Springboot, Docker and aws services.
 
-- 🎓 Studying at Universidad del Quindío, currently in the seventh semester.
-- 💻 Passionate about Java, Spring Boot, and Backend Development.
+- 🎓 Studying at Universidad del Quindío, currently in the eighth semester.
+- 💻 Passionate about Backend Development and learning every day.
 - 🚀 Excited about contributing to innovative solutions in data analysis, cloud technology, and software development.
 - 🌱 Committed to continuous learning and eager to contribute my skills to a dynamic work environment.
 - 📫 Reach me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Solenka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/solenka-saire/)
