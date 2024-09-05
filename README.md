@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a Computer Systems Engineering student from Colombia, specializing in Backend Development, Java, Angular, Springboot, Docker and AWS.
 
-- 🎓 Studying at Universidad del Quindío, currently in the eighth semester.
+- 🎓 Studying at Universidad del Quindío, currently in the ninth semester.
 - 💻 Passionate about Backend Development and learning every day.
 - 🚀 Excited about contributing to innovative solutions in data analysis, cloud technology, and software development.
 - 🌱 Committed to continuous learning and eager to contribute my skills to a dynamic work environment.
